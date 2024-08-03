@@ -1,4 +1,4 @@
-`# 🌟 ZORO - Diabetic Reversal Center
+# 🌟 ZORO - Diabetic Reversal Center
 
 ![ZORO Logo](path/to/logo.png)
 
