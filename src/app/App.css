@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+body {
+  font-family : 'Inter',sans-serif;
+}
+
+header{
+  z-index : 10001 !important;
+}
+
+/* In your CSS file or in a <style> block */
+.carousel-container {
+  max-height: 500px; /* Adjust this value as needed */
+  overflow: hidden;
+}
+
+.carousel-item {
+  height: 100%;
+  object-fit: cover;
+}
+
+/* In your CSS file (e.g., styles.css) */
+.icon-size {
+  width: 50px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
